@@ -15,7 +15,7 @@
 
 2. [DigitalOcean Tools](https://github.com/mikeroyal/DigitalOcean-Guide/blob/main/README.md#DigitalOcean-tools)
 
-3. [DigitalOcean Devops Tools Integration](https://github.com/mikeroyal/DigitalOcean-Guide/blob/main/README.md#DigitalOcean-devops-tools-integration)
+3. [DigitalOcean DevOps Tools Integration](https://github.com/mikeroyal/DigitalOcean-Guide/blob/main/README.md#DigitalOcean-devops-tools-integration)
  
 4. [Networking](https://github.com/mikeroyal/DigitalOcean-Guide/blob/main/README.md#networking)
 
@@ -118,7 +118,7 @@
 [Managed Redis](https://www.digitalocean.com/products/managed-databases-redis/) is a service for DigitalOcean's [Redis](https://redis.io/) hosting.
 
 
-# DigitalOcean Dev Tools Integration
+# DigitalOcean DevOps Tools Integration
 
 [Back to the Top](https://github.com/mikeroyal/DigitalOcean-Guide/blob/main/README.md#table-of-contents)
 
@@ -129,7 +129,7 @@
 
 [Podman](https://podman.io/) is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using Open Containers Initiative (OCI) Containers and Container Images. Podman provides a command line interface (CLI) familiar to anyone who has used the Docker Container Engine.
 
-[Containerd](https://containerd.io)is a daemon that manages the complete container lifecycle of its host system, from image transfer and storage to container execution and supervision to low-level storage to network attachments and beyond. It is available for Linux and Windows. 
+[Containerd](https://containerd.io) is a daemon that manages the complete container lifecycle of its host system, from image transfer and storage to container execution and supervision to low-level storage to network attachments and beyond. It is available for Linux and Windows. 
 
 [OKD](https://okd.io/) is a community distribution of Kubernetes optimized for continuous application development and multi-tenant deployment. OKD adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.
 
@@ -155,7 +155,7 @@
 
 [Kata Operator](https://github.com/openshift/kata-operator) is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
 
-[Ansible](https://www.ansible.com/)is a simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs. It uses a very simple language (YAML, in the form of Ansible Playbooks) that allows you to describe your automation jobs in a way that approaches plain English. Anisble works on Linux (Red Hat EnterPrise Linux(RHEL) and Ubuntu) and Microsoft Windows.
+[Ansible](https://www.ansible.com/) is a simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs. It uses a very simple language (YAML, in the form of Ansible Playbooks) that allows you to describe your automation jobs in a way that approaches plain English. Anisble works on Linux (Red Hat EnterPrise Linux(RHEL) and Ubuntu) and Microsoft Windows.
 
 [Ansible cmdb](https://github.com/fboender/ansible-cmdb) is a tool that takes the output of Ansible’s fact gathering and converts it into a static HTML overview page containing system configuration information.
 
