@@ -8,6 +8,10 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/146078263-f372456b-312f-4638-9fc1-b146021f1d95.png">
+  <br />
+</p>
  
 # Table of Contents
 
@@ -36,11 +40,6 @@
  
  **Creating a DigitalOcean Droplet. Source: [DigitalOcean](https://www.digitalocean.com/products/droplets/)**
 
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117214957-60845000-adb2-11eb-9c08-3cc906c7111d.png">
-  <br />
-</p>
 
 # DigitalOcean Learning Resources
 
